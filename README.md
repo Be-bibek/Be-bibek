@@ -1,13 +1,331 @@
-# 💫 About Me:
-Name: Bibek Das<br><br>Education:<br>B.Tech in Electronics and Communication Engineering (2023–2027, Ongoing)<br>Guru Nanak Institute of Technology, Kolkata<br><br>Short Bio / About Me:<br>I am an aspiring AI / LLM Engineer and Software Engineer with hands-on experience in Python, deep learning, and end-to-end AI system development. I enjoy building real-world applications that combine machine learning, backend systems, and cloud deployment. I am also exploring embedded systems and system-level engineering as part of my ECE background.<br><br>Primary Interests:<br>Artificial Intelligence<br>Large Language Models (LLMs)<br>Retrieval-Augmented Generation (RAG)<br>Backend & System Software<br>Embedded & Linux-based Systems<br><br>Programming Languages:<br>Python, Java, JavaScript, Dart, SQL<br><br>Frameworks & Tools:<br>PyTorch, TensorFlow, Flask, FastAPI, Hugging Face Transformers, LangChain (basic), NumPy, Pandas, OpenCV<br><br>Backend & Databases:<br>REST APIs, Model Serving, Oracle Autonomous Database, Oracle AI Vector Search<br><br>Cloud & DevOps:<br>Oracle Cloud Infrastructure (OCI), Docker, CI/CD Pipelines, Git, GitHub<br><br>Key Projects:<br>AI-Powered Autonomous Rover – Linux-based system integrating sensors, camera streams, AI inference pipelines, backend APIs, and a Flutter mobile app for real-time control and monitoring.<br>AI-Powered Healthcare Management System – Cross-platform Flutter application with Firebase backend, AI-assisted clinical workflows, secure Razorpay integration, and data processing pipelines.<br><br>Currently Learning:<br>MLOps, model optimization, system-level AI deployment, VLSI fundamentals, embedded Linux<br><br>Career Goals:<br>To build scalable AI-driven systems and intelligent software products, working at the intersection of machine learning, backend engineering, and system performance.<br><br>GitHub Username:<br>Be-bibek<br><br>Contact Information:<br>Email: bibekdas1055@gmail.com<br><br>LinkedIn: https://linkedin.com/in/bibek-das<br><br>Tone Preference:<br>Professional, clean, engineering-focused, not flashy, suitable for internships and entry-level roles.<br><br>🔹 How to use this in GPRM<br><br>Go to gprm.itsvg.in (or similar README generator)<br><br>Paste the above content into:<br><br>“About Me”<br><br>“Skills”<br><br>“Projects”<br><br>Let the tool generate the README<br><br>Choose simple badges (Python, Git, Linux, AI)<br><br>Avoid emojis overload (1–2 max)<br><br>🔹 Pro Tip (Important)<br><br>After generation:<br><br>Remove anything that says “expert” or “senior”<br><br>Keep it student / intern-friendly<br><br>Pin 2–3 strong repositories (Rover + Healthcare)<br><br>If you want, next I can:<br><br>Refine the generated README text<br><br>Or create two README versions (AI-focused & Embedded-focused)<br><br>You’re doing this the right way 👍
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bibek Das | AI & Software Engineer</title>
 
+  <!-- Font Awesome -->
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+  />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bibek_ai_deas?igsh=MW00ZDRsNWFzM3cybA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bibek-das-364367323/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@be-bibek?si=JtYNdXrl2NjphE8i) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bibekdas1055@gmail.com) 
+  <style>
+    :root {
+      --primary: #4f46e5;
+      --secondary: #111827;
+      --text: #374151;
+      --muted: #6b7280;
+      --bg: #f9fafb;
+      --card: #ffffff;
+      --border: #e5e7eb;
+    }
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=plastic&logo=pi-hole&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 2rem auto;
+      padding: 1.5rem;
+    }
+
+    header {
+      background: var(--card);
+      border: 1px solid var(--border);
+      padding: 2rem;
+      border-radius: 12px;
+      margin-bottom: 2rem;
+    }
+
+    header h1 {
+      color: var(--secondary);
+      font-size: 2.2rem;
+      margin-bottom: 0.5rem;
+    }
+
+    header p {
+      color: var(--muted);
+      margin-bottom: 1rem;
+    }
+
+    .contact {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      font-size: 0.95rem;
+    }
+
+    .contact span {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    main {
+      display: grid;
+      grid-template-columns: 1fr 2.2fr;
+      gap: 2rem;
+    }
+
+    section {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+    }
+
+    section h2 {
+      font-size: 1.2rem;
+      color: var(--secondary);
+      margin-bottom: 1rem;
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 0.4rem;
+    }
+
+    ul {
+      list-style: none;
+    }
+
+    ul li {
+      margin-bottom: 0.6rem;
+    }
+
+    .tag {
+      display: inline-block;
+      background: #eef2ff;
+      color: var(--primary);
+      padding: 0.2rem 0.6rem;
+      border-radius: 6px;
+      font-size: 0.8rem;
+      margin-right: 0.3rem;
+      margin-top: 0.3rem;
+    }
+
+    .project {
+      margin-bottom: 1.5rem;
+    }
+
+    .project h3 {
+      font-size: 1rem;
+      color: var(--secondary);
+    }
+
+    .project span {
+      font-size: 0.85rem;
+      color: var(--muted);
+    }
+
+    .project ul {
+      margin-top: 0.5rem;
+      padding-left: 1rem;
+    }
+
+    .project ul li {
+      list-style: disc;
+      margin-bottom: 0.4rem;
+    }
+
+    .links a {
+      display: inline-block;
+      margin-right: 1rem;
+      font-size: 0.9rem;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 2rem;
+      color: var(--muted);
+      font-size: 0.85rem;
+    }
+
+    @media (max-width: 900px) {
+      main {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <!-- HEADER -->
+    <header>
+      <h1>Bibek Das</h1>
+      <p>Aspiring AI / LLM Engineer & Software Engineer</p>
+
+      <div class="contact">
+        <span><i class="fa-solid fa-location-dot"></i> Agarpara, West Bengal</span>
+        <span><i class="fa-solid fa-phone"></i> +91 9051776463</span>
+        <span>
+          <i class="fa-solid fa-envelope"></i>
+          <a href="mailto:bibekdas1055@gmail.com">bibekdas1055@gmail.com</a>
+        </span>
+        <span>
+          <i class="fa-brands fa-linkedin"></i>
+          <a href="https://linkedin.com/in/bibek-das" target="_blank">LinkedIn</a>
+        </span>
+        <span>
+          <i class="fa-brands fa-github"></i>
+          <a href="https://github.com/Be-bibek" target="_blank">GitHub</a>
+        </span>
+      </div>
+    </header>
+
+    <!-- MAIN CONTENT -->
+    <main>
+      <!-- LEFT COLUMN -->
+      <div>
+        <section>
+          <h2>About Me</h2>
+          <p>
+            I am an aspiring AI / LLM Engineer and Software Engineer with hands-on
+            experience in Python, deep learning, backend systems, and cloud-native
+            development. I enjoy building real-world AI-driven applications that
+            combine machine learning, system-level engineering, and scalable
+            infrastructure.
+          </p>
+        </section>
+
+        <section>
+          <h2>Core Skills</h2>
+          <ul>
+            <li><strong>Languages:</strong> Python, Java, JavaScript, Dart, SQL</li>
+            <li><strong>AI / ML:</strong> Deep Learning, Computer Vision, RAG, Model Serving</li>
+            <li><strong>Backend:</strong> Flask, FastAPI, REST APIs</li>
+            <li><strong>Cloud:</strong> Oracle Cloud Infrastructure (OCI), Docker, CI/CD</li>
+            <li><strong>Systems:</strong> Linux, Embedded Linux, Raspberry Pi</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Certifications</h2>
+          <ul>
+            <li>
+              AI & Machine Learning — Google for Developers (AICTE EduSkills)
+              <br />
+              <a href="#" target="_blank">[ Add Certificate Link ]</a>
+            </li>
+            <li>
+              NVIDIA Deep Learning Institute — Getting Started with Deep Learning
+              <br />
+              <a href="#" target="_blank">[ Add Credential URL ]</a>
+            </li>
+            <li>
+              Oracle Cloud Infrastructure — Data Science Professional
+              <br />
+              <a href="#" target="_blank">[ Add Oracle Credential ]</a>
+            </li>
+            <li>
+              Oracle AI Vector Search Professional
+              <br />
+              <a href="#" target="_blank">[ Add Credential URL ]</a>
+            </li>
+          </ul>
+        </section>
+      </div>
+
+      <!-- RIGHT COLUMN -->
+      <div>
+        <section>
+          <h2>Projects</h2>
+
+          <div class="project">
+            <h3>AI-Powered Autonomous Rover</h3>
+            <span>Linux • Python • Flask • Flutter • Computer Vision</span>
+            <ul>
+              <li>
+                Designed and developed a Linux-based autonomous rover with
+                real-time decision-making, obstacle avoidance, and intelligent navigation.
+              </li>
+              <li>
+                Built a Flask backend for rover control, sensor fusion, camera
+                streams, and AI inference pipelines.
+              </li>
+              <li>
+                Developed a Flutter mobile app for live monitoring, control, and
+                interaction with onboard systems.
+              </li>
+              <li>
+                Integrated on-device AI inference for object detection and
+                environment awareness.
+              </li>
+            </ul>
+            <div class="links">
+              <a href="#" target="_blank">GitHub Repo</a>
+              <a href="#" target="_blank">Project README</a>
+            </div>
+          </div>
+
+          <div class="project">
+            <h3>AI-Powered Healthcare Management System</h3>
+            <span>Flutter • Firebase • AI • Razorpay</span>
+            <ul>
+              <li>
+                Built a cross-platform healthcare application with EHR management,
+                appointment booking, and telemedicine features.
+              </li>
+              <li>
+                Integrated AI models for medical report analysis and patient
+                summary generation.
+              </li>
+              <li>
+                Implemented secure Razorpay payment gateway for online consultations.
+              </li>
+            </ul>
+            <div class="links">
+              <a href="#" target="_blank">GitHub Repo</a>
+              <a href="#" target="_blank">Project README</a>
+            </div>
+          </div>
+        </section>
+
+        <section>
+          <h2>Education</h2>
+          <p>
+            <strong>B.Tech in Electronics and Communication Engineering</strong><br />
+            Guru Nanak Institute of Technology, Kolkata<br />
+            <span>2023 – 2027 (Ongoing)</span>
+          </p>
+        </section>
+
+        <section>
+          <h2>Resume</h2>
+          <p>
+            <a href="#" target="_blank">Download PDF Resume</a>
+          </p>
+        </section>
+      </div>
+    </main>
+
+    <footer>
+      © 2026 Bibek Das • Built with HTML5 & CSS
+    </footer>
+  </div>
+</body>
+</html>
+
 ![](https://github-readme-stats.vercel.app/api?username=Be-bibek&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Be-bibek&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Be-bibek&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
