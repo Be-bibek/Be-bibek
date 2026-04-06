@@ -1,14 +1,9 @@
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Be-bibek.Be-bibek" />
-</p>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Bibek+Das!;" />
 </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXo1eHl6eXowenB6eHl6eHl6eHl6eHl6eHl6eHl6eHl6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Professional AI Banner" />
-  <!-- Replace the URL above with your own professional GIF! -->
 </p>
 
 <h3 align="center">🚀 AI & Cloud Engineer | 📱 Full-Stack Developer | 🐳 DevOps Enthusiast</h3>
@@ -50,13 +45,18 @@
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,javascript,typescript,java,sql,fastapi,flask,django,nodejs,express,docker,kubernetes,git,github,bash,flutter,react,html,css,tensorflow,pytorch,mongodb,mysql,firebase,figma,vscode" />
+  <h3>Core Languages & AI</h3>
+  <img src="https://skillicons.dev/icons?i=python,dart,javascript,typescript,java,sql,tensorflow,pytorch,anaconda,numpy" />
+  <h3>Backend & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express,docker,kubernetes,aws,gcp,git,github,bash" />
+  <h3>Frontend & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=flutter,react,html,css,mongodb,mysql,firebase,figma,vscode,postman,linux" />
 </div>
 
 <br/>
 <hr/>
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
+<h2 align="center">🐍 Contribution Snake 🐍</h2>
 <br>
 <div align="center">
   <picture>
@@ -69,13 +69,12 @@
 
 <hr/>
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<h2 align="center">⚡ GitHub Statistics ⚡</h2>
 <br>
 <div align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Be-bibek&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=Be-bibek&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/><br/>
-  <img width="97%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Be-bibek&hide=HTML&langs_count=8&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <img height="180px" src="https://github-readme-stats.shion.dev/api?username=Be-bibek&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img height="180px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Be-bibek&hide=HTML&langs_count=3&theme=react&border_radius=10" alt="top langs" />
+  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Be-bibek&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
 <br/><br/>
