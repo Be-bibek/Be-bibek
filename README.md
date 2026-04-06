@@ -74,7 +74,11 @@ I'm an aspiring AI & Cloud Engineer with hands-on experience in building intelli
 <h2 align="center">🐍 My Contributions 🐍</h2>
 <br>
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Be-bibek/Be-bibek/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Be-bibek/Be-bibek/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Be-bibek/Be-bibek/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Be-bibek/Be-bibek/output/github-snake.svg" />
+  </picture>
   <br/><br/>
 </div>
 
