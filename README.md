@@ -79,16 +79,11 @@
 <h2 align="center">⚡ GitHub Statistics ⚡</h2>
 <br>
 <div align="center">
-  <table align="center">
-    <tr>
-      <td align="center"><img height="185px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Be-bibek&theme=react" alt="profile summary" /></td>
-      <td align="center"><img height="185px" src="https://github-readme-stats.shion.dev/api?username=Be-bibek&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /></td>
-    </tr>
-    <tr>
-      <td align="center"><img height="185px" src="https://github-readme-streak-stats.herokuapp.com/?user=Be-bibek&theme=react&border_radius=10" alt="streak stats"/></td>
-      <td align="center"><img height="185px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Be-bibek&hide=HTML&langs_count=3&theme=react&border_radius=10" alt="top langs" /></td>
-    </tr>
-  </table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Be-bibek&theme=react" alt="profile summary" />
+  <br/><br/>
+  <img src="https://github-readme-stats.shion.dev/api?username=Be-bibek&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Be-bibek&theme=react&border_radius=10" alt="streak stats"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Be-bibek&hide=HTML&langs_count=3&theme=react&border_radius=10" alt="top langs" />
 </div>
 
 <br/>
