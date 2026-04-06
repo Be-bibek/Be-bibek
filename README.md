@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Bibek+Das!;" />
 </h1>
-<h3 align="center">An aspiring AI & Cloud Engineer from India 🇮🇳</h3>
+<h3 align="center">An AI & Cloud Engineer from India 🇮🇳</h3>
 <br/>
 <div align="center">
  
@@ -87,10 +87,10 @@ I'm an aspiring AI & Cloud Engineer with hands-on experience in building intelli
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=Be-bibek&theme=dark&hide_border=false" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Be-bibek&count_private=true&show_icons=true&theme=dark&hide_border=false" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Be-bibek&theme=dark" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.shion.dev/api?username=Be-bibek&count_private=true&show_icons=true&theme=dark&hide_border=false" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Be-bibek&hide=HTML&langs_count=8&layout=compact&theme=dark&hide_border=false" alt="top langs" />
+  <img width=325 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Be-bibek&theme=dark" alt="top langs" />
 </div>
 
 <br/><br/>
