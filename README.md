@@ -46,7 +46,7 @@
 <br/>
 <div align="center">
   <h3>Core Languages & AI</h3>
-  <img src="https://skillicons.dev/icons?i=python,dart,javascript,typescript,java,sql,tensorflow,pytorch,anaconda,numpy" />
+  <img src="https://skillicons.dev/icons?i=python,dart,javascript,typescript,java,tensorflow,pytorch,anaconda,numpy" />
   <h3>Backend & Cloud</h3>
   <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express,docker,kubernetes,aws,gcp,git,github,bash" />
   <h3>Frontend & Tools</h3>
