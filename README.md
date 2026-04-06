@@ -1,16 +1,111 @@
-# 💫 About Me:
-Hi, I’m Bibek Das, an aspiring AI & Cloud Engineer with hands-on experience in building intelligent, scalable, and cloud-native applications. I work across machine learning, cloud infrastructure, backend systems, and mobile app development, with a strong focus on real-world, project-driven learning.<br><br>I have practical experience with Oracle Cloud Infrastructure (OCI), DevOps automation, CI/CD pipelines, and containerized deployments. My work includes designing AI pipelines, deploying APIs, working with vector search, and building GPU-accelerated deep learning workflows using Python and NVIDIA CUDA.<br><br>I enjoy building end-to-end systems. My projects include an AI-powered autonomous rover with real-time decision-making, computer vision, and remote control via a Flutter app, as well as an AI-powered healthcare management system integrating EHR, report analysis, and secure online payments.<br><br>I’m comfortable working with Python, Dart, JavaScript, SQL, and frameworks like Flask, FastAPI, Flutter, and React. I regularly work in Linux environments, use Git/GitHub for collaboration, and leverage tools like Docker, JupyterLab, and Conda.<br><br>I’m passionate about AI, cloud engineering, and building impactful systems, and I’m always eager to learn, experiment, and apply technology to solve real-world problems.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Be-bibek.Be-bibek" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Bibek+Das!;" />
+</h1>
+<h3 align="center">An aspiring AI & Cloud Engineer from India 🇮🇳</h3>
+<br/>
+<div align="center">
+ 
+ 🔭 I'm currently working on **AI-powered cloud systems & ML pipelines**
+ 
+ 🌱 I'm currently learning **Advanced GPU-accelerated Deep Learning & Kubernetes**
 
+ 💬 Ask me about **Python, FastAPI, Flutter, OCI, Docker, CUDA, PyTorch... or anything [here](https://github.com/Be-bibek/Be-bibek/issues)**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bibek_ai_deas?igsh=MW00ZDRsNWFzM3cybA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibek-das-364367323/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@be-bibek) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bibekdas1055@gmail.com) 
+ ⚡ Fun fact **I build AI rovers that think in real-time and flutter apps that bring them to life!**
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:bibekdas1055@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/bibek-das-364367323/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/bibek_ai_deas/" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://youtube.com/@be-bibek" target="_blank">
+     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
+  </a>
+</div>
+ <hr/>
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=plastic&logo=apple&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Be-bibek&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Be-bibek&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Be-bibek&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2 align="center">💫 About Me 💫</h2>
+<p align="center">
+I'm an aspiring AI & Cloud Engineer with hands-on experience in building intelligent, scalable, and cloud-native applications. I work across machine learning, cloud infrastructure, backend systems, and mobile app development, with a strong focus on real-world, project-driven learning.
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<b>My Expertise:</b><br>
+✨ Machine Learning & AI Pipelines | ☁️ Cloud Infrastructure (OCI, GCP) | 🐳 DevOps & CI/CD<br>
+🎯 Computer Vision & Real-time Decision Making | 🚀 FastAPI & Backend Systems | 📱 Flutter Cross-Platform Apps<br>
+🎮 GPU-Accelerated Deep Learning with NVIDIA CUDA
+</p>
+
+<p align="center">
+<b>Recent Projects:</b><br>
+🤖 <b>AI-Powered Autonomous Rover</b> - Real-time decision-making, computer vision, remote Flutter app control<br>
+🏥 <b>AI Healthcare Management System</b> - EHR integration, report analysis, secure payments
+</p>
+
+<hr/>
+
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+<br/>
+<div align="center">
+    <h3>Languages & Core Tech</h3>
+    <img src="https://skillicons.dev/icons?i=python,dart,javascript,typescript,java,sql" />
+    <h3>Backend & Frameworks</h3>
+    <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express" />
+    <h3>Cloud & DevOps</h3>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,bash" />
+    <h3>Frontend & Mobile</h3>
+    <img src="https://skillicons.dev/icons?i=flutter,react,html,css" />
+    <h3>AI & Data Science</h3>
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda,numpy" />
+    <h3>Databases & Tools</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,figma,vscode" />
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">🐍 My Contributions 🐍</h2>
+<br>
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Be-bibek/Be-bibek/output/github-contribution-grid-snake.svg" />
+  <br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=Be-bibek&theme=dark&hide_border=false" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Be-bibek&count_private=true&show_icons=true&theme=dark&hide_border=false" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Be-bibek&hide=HTML&langs_count=8&layout=compact&theme=dark&hide_border=false" alt="top langs" />
+</div>
+
+<br/><br/>
+<hr/>
+
+<div align="center">
+  <h2>🌟 Let's Connect & Collaborate! 🌟</h2>
+  <p>
+    <b>Currently exploring:</b> Advanced AI systems, Cloud architecture, and innovative ML solutions<br>
+    <b>Open to:</b> Collaborations, Open-source contributions, and exciting projects<br><br>
+    Feel free to reach out for discussions about AI, Cloud Engineering, or building the next big thing! 🚀
+  </p>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <p><i>⭐ If you found my work interesting, feel free to star my repositories! ⭐</i></p>
+  <p><b>Made with ❤️ by Bibek Das</b></p>
+</div>
