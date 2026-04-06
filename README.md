@@ -44,14 +44,21 @@
 
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
-<div align="center">
-  <h3>Core Languages & AI</h3>
-  <img src="https://skillicons.dev/icons?i=python,dart,javascript,typescript,java,tensorflow,pytorch,anaconda,numpy" />
-  <h3>Backend & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express,docker,kubernetes,aws,gcp,git,github,bash" />
-  <h3>Frontend & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=flutter,react,html,css,mongodb,mysql,firebase,figma,vscode,postman,linux" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDI5eDQxZDg4bTU4NzM0N2FsNHJnbDhxMm9yeWtlanowdjlxNHRyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250" alt="Coding Ninja" />
+    </td>
+    <td align="center">
+      <h3>Core Languages & AI</h3>
+      <img src="https://skillicons.dev/icons?i=python,dart,javascript,typescript,java,sql,tensorflow,pytorch,anaconda,numpy" />
+      <h3>Backend & Cloud</h3>
+      <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express,docker,kubernetes,aws,gcp,git,github,bash" />
+      <h3>Frontend & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=flutter,react,html,css,mongodb,mysql,firebase,figma,vscode,postman,linux" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 <hr/>
@@ -71,16 +78,15 @@
 
 <h2 align="center">⚡ GitHub Statistics ⚡</h2>
 <br>
-<!-- PLACEHOLDER: Paste your shared GitHub status (https://share.google ![giphy](https://github.com/user-attachments/assets/368c87ef-eef8-4560-bc99-99c70854b30d)
-/0OePv6MZ7dgWdSf2B) here --> 
-<div align="center">https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDI5eDQxZDg4bTU4NzM0N2FsNHJnbDhxMm9yeWtlanowdjlxNHRyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif 
-    
+<div align="center">
+  <img height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Be-bibek&theme=react" alt="profile summary" />
   <img height="180px" src="https://github-readme-stats.shion.dev/api?username=Be-bibek&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img height="180px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Be-bibek&hide=HTML&langs_count=3&theme=react&border_radius=10" alt="top langs" />
+  <br/><br/>
   <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Be-bibek&theme=react&border_radius=10" alt="streak stats"/>
+  <img height="180px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Be-bibek&hide=HTML&langs_count=3&theme=react&border_radius=10" alt="top langs" />
 </div>
 
-<br/><br/>
+<br/>
 <hr/>
 
 <div align="center">
@@ -94,12 +100,9 @@
 
 <br/>
 
----
-
 <div align="center">
   <p><i>⭐ If you found my work interesting, feel free to star my repositories! ⭐</i></p>
   <p><b>Made with ❤️ by Bibek Das</b></p>
+  <br/>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/178480930/574167067-2e4ba458-45d1-43aa-b48d-e215631dad3a.gif" width="200" alt="Coding is Fun" />
 </div>
-
-<!-- PLACEHOLDER: Paste your final asset (https://share.google/ta4ZsXP0Xuqt32NQ1) below this line -->
-![0_nYZDIafxfljkuN77](https://github.com/user-attachments/assets/2e4ba458-45d1-43aa-b48d-e215631dad3a)
