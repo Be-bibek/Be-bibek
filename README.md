@@ -47,7 +47,7 @@
 <table align="center">
   <tr>
     <td align="center" width="300">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDI5eDQxZDg4bTU4NzM0N2FsNHJnbDhxMm9yeWtlanowdjlxNHRyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250" alt="Coding Ninja" />
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9lY2xmbnFiemlrc3BpbHJpZHlhYmMwc3N0bXk5eWhsajJwemtpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250" alt="Coding Ninja" />
     </td>
     <td align="center">
       <h3>Core Languages & AI</h3>
@@ -79,11 +79,16 @@
 <h2 align="center">⚡ GitHub Statistics ⚡</h2>
 <br>
 <div align="center">
-  <img height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Be-bibek&theme=react" alt="profile summary" />
-  <img height="180px" src="https://github-readme-stats.shion.dev/api?username=Be-bibek&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/><br/>
-  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Be-bibek&theme=react&border_radius=10" alt="streak stats"/>
-  <img height="180px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Be-bibek&hide=HTML&langs_count=3&theme=react&border_radius=10" alt="top langs" />
+  <table align="center">
+    <tr>
+      <td align="center"><img height="185px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Be-bibek&theme=react" alt="profile summary" /></td>
+      <td align="center"><img height="185px" src="https://github-readme-stats.shion.dev/api?username=Be-bibek&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img height="185px" src="https://github-readme-streak-stats.herokuapp.com/?user=Be-bibek&theme=react&border_radius=10" alt="streak stats"/></td>
+      <td align="center"><img height="185px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Be-bibek&hide=HTML&langs_count=3&theme=react&border_radius=10" alt="top langs" /></td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -104,5 +109,5 @@
   <p><i>⭐ If you found my work interesting, feel free to star my repositories! ⭐</i></p>
   <p><b>Made with ❤️ by Bibek Das</b></p>
   <br/>
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/178480930/574167067-2e4ba458-45d1-43aa-b48d-e215631dad3a.gif" width="200" alt="Coding is Fun" />
+  <img src="https://github.com/user-attachments/assets/2e4ba458-45d1-43aa-b48d-e215631dad3a" width="220" alt="Coding is Fun" />
 </div>
