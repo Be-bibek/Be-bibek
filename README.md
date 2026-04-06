@@ -72,9 +72,9 @@
 <h2 align="center">⚡ GitHub Statistics ⚡</h2>
 <br>
 <!-- PLACEHOLDER: Paste your shared GitHub status (https://share.google ![giphy](https://github.com/user-attachments/assets/368c87ef-eef8-4560-bc99-99c70854b30d)
-/0OePv6MZ7dgWdSf2B) here --> ![giphy](https://github.com/user-attachments/assets/2c4ed61f-0ddd-4b4c-bd7b-25e225dc5adf)
-
-<div align="center">
+/0OePv6MZ7dgWdSf2B) here --> 
+<div align="center">https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDI5eDQxZDg4bTU4NzM0N2FsNHJnbDhxMm9yeWtlanowdjlxNHRyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif 
+    
   <img height="180px" src="https://github-readme-stats.shion.dev/api?username=Be-bibek&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img height="180px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Be-bibek&hide=HTML&langs_count=3&theme=react&border_radius=10" alt="top langs" />
   <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Be-bibek&theme=react&border_radius=10" alt="streak stats"/>
