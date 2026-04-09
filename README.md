@@ -83,7 +83,7 @@
   <br/><br/>
   <img src="https://github-readme-stats.shion.dev/api?username=Be-bibek&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Be-bibek&theme=react&border_radius=10" alt="streak stats"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Be-bibek&hide=HTML&langs_count=3&theme=react&border_radius=10" alt="top langs" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Be-bibek&hide=HTML,Jupyter%20Notebook&langs_count=6&theme=react&border_radius=10" alt="top langs" />
 </div>
 
 <br/>
