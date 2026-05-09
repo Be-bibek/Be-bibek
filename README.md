@@ -81,9 +81,9 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Be-bibek&theme=react" alt="profile summary" />
   <br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api?username=Be-bibek&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Be-bibek&theme=react" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Be-bibek&theme=react&border_radius=10" alt="streak stats"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Be-bibek&hide=HTML,Jupyter%20Notebook&langs_count=6&theme=react&border_radius=10" alt="top langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Be-bibek&theme=react" alt="top langs" />
 </div>
 
 <br/>
