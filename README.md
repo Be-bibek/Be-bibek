@@ -19,7 +19,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   <a href="https://youtube.com/@be-bibek" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-282828?style=flat-square&logo=youtube&logoColor=ff0000" alt="YouTube" />
   </a>
 </div>
 
@@ -41,14 +41,54 @@
 ## ⚒️ Technical Arsenal
 
 <div align="center">
-  <h3>🧠 AI, Deep Learning & Core</h3>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,anaconda,numpy" alt="AI & Core" />
-  <br/><br/>
-  <h3>☁️ Systems, Cloud & Backend</h3>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker,kubernetes,aws,gcp,mongodb,mysql,firebase" alt="Systems & Backend" />
-  <br/><br/>
-  <h3>⚡ Engineering & Interfaces</h3>
-  <img src="https://skillicons.dev/icons?i=flutter,react,javascript,typescript,linux,bash,git,github" alt="Engineering & Interfaces" />
+
+### 🧠 AI & Intelligent Systems
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,numpy,fastapi" alt="AI & Intelligent Systems" />
+
+<br/>
+
+### 🔐 Cybersecurity & Digital Forensics
+<img src="https://skillicons.dev/icons?i=linux,kali" alt="Linux & Kali" />
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-101010?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Cryptography-101010?style=flat-square&logo=letsencrypt&logoColor=white" alt="Cryptography" />
+  <img src="https://img.shields.io/badge/Digital%20Forensics-101010?style=flat-square&logo=tryhackme&logoColor=white" alt="Digital Forensics" />
+  <img src="https://img.shields.io/badge/Network%20Security-101010?style=flat-square&logo=cisco&logoColor=white" alt="Network Security" />
+</p>
+
+<br/>
+
+### ⚙️ Systems Engineering & Backend
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,mongodb,redis,mysql,supabase,firebase" alt="Systems Engineering & Backend" />
+
+<br/>
+
+### ☁️ Cloud, DevOps & Infrastructure
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,github" alt="Cloud, DevOps & Infrastructure" />
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/CI%2FCD%20Pipelines-101010?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD Pipelines" />
+</p>
+
+<br/>
+
+### 📱 Application & Interface Engineering
+<img src="https://skillicons.dev/icons?i=flutter,react,ts,js,nextjs" alt="Application & Interface Engineering" />
+
+<br/>
+
+### 🧪 Research, Simulation & Experimentation
+<p align="center">
+  <code>⚡ IEEE Research Projects</code> • <code>🛡️ Security Simulations</code> • <code>🧠 AI Threat Modeling</code><br/>
+  <code>🔬 Digital Watermarking Systems</code> • <code>📊 Forensic Evaluation Frameworks</code>
+</p>
+
+<br/>
+
+### 🛠️ Developer Workflow & Tooling
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" alt="Developer Workflow & Tooling" />
+
 </div>
 
 <br/>
@@ -95,7 +135,7 @@
   <img height="180px" src="https://github-readme-stats.shion.dev/api?username=Be-bibek&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/><br/>
   <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Be-bibek&theme=react&border_radius=10" alt="streak stats"/>
-  <img height="180px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Be-bibek&hide=HTML&langs_count=3&theme=react&border_radius=10" alt="top langs" />
+  <img height="180px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Be-bibek&hide=HTML,Jupyter%20Notebook,jupyter%20notebook&langs_count=5&theme=react&border_radius=10" alt="top langs" />
 </div>
 
 <br/>
