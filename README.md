@@ -19,7 +19,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   <a href="https://youtube.com/@be-bibek" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-282828?style=flat-square&logo=youtube&logoColor=ff0000" alt="YouTube" />
+    <img src="youtube.svg" alt="YouTube" width="48" />
   </a>
 </div>
 
