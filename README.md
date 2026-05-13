@@ -8,26 +8,18 @@
 
 <h3 align="center">Building intelligent security systems for real-world impact.</h3>
 
-<p align="center">
-  <a href="https://github.com/Be-bibek">
-    <img src="https://komarev.com/ghpvc/?username=Be-bibek&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
-
-<br/>
-
 <div align="center"> 
   <a href="mailto:bibekdas1055@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/bibek-das-364367323/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/bibek_ai_deas/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   <a href="https://youtube.com/@be-bibek" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </div>
 
@@ -48,23 +40,16 @@
 
 ## ⚒️ Technical Arsenal
 
-<table align="center">
-  <tr>
-    <td align="center" width="250">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9lY2xmbnFiemlrc3BpbHJpZHlhYmMwc3N0bXk5eWhsajJwemtpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200" alt="Coding Ninja" />
-    </td>
-    <td align="left">
-      <h3>AI & ML</h3>
-      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,anaconda,numpy" alt="AI & ML" />
-      <br/>
-      <h3>Backend, Cloud & Databases</h3>
-      <img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker,kubernetes,aws,gcp,mongodb,mysql,firebase" alt="Backend & Cloud" />
-      <br/>
-      <h3>Frontend & Tools</h3>
-      <img src="https://skillicons.dev/icons?i=flutter,react,javascript,typescript,linux,bash,git,github" alt="Frontend & Tools" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>🧠 AI, Deep Learning & Core</h3>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,anaconda,numpy" alt="AI & Core" />
+  <br/><br/>
+  <h3>☁️ Systems, Cloud & Backend</h3>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker,kubernetes,aws,gcp,mongodb,mysql,firebase" alt="Systems & Backend" />
+  <br/><br/>
+  <h3>⚡ Engineering & Interfaces</h3>
+  <img src="https://skillicons.dev/icons?i=flutter,react,javascript,typescript,linux,bash,git,github" alt="Engineering & Interfaces" />
+</div>
 
 <br/>
 <hr/>
