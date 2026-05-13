@@ -43,7 +43,12 @@
 <div align="center">
 
 ### 🧠 AI & Intelligent Systems
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,numpy,fastapi" alt="AI & Intelligent Systems" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,fastapi" alt="AI & Intelligent Systems" />
+<br/><br/>
+<p align="center">
+  <code>NumPy</code> • <code>Pandas</code> • <code>Scikit-learn</code> • <code>Jupyter</code> • <code>LangChain</code><br/>
+  <i>AI Pipelines • Deep Learning • Security Intelligence • Intelligent Automation</i>
+</p>
 
 <br/>
 
