@@ -151,4 +151,6 @@
   <p><b>Made with ❤️ by Bibek Das</b></p>
   <br/>
   <img src="https://github.com/user-attachments/assets/2e4ba458-45d1-43aa-b48d-e215631dad3a" width="220" alt="Coding is Fun" />
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=footer&text=Innovating%20Secure%20Intelligence&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Engineering%20Research%20Into%20Reality&descAlignY=85&descSize=14" alt="Footer Wave" />
 </div>
