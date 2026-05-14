@@ -19,7 +19,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   <a href="https://youtube.com/@be-bibek" target="_blank">
-    <img src="https://raw.githubusercontent.com/Be-bibek/Be-bibek/main/youtube.svg" alt="YouTube" width="48" />
+    <img src="https://github.com/Be-bibek/Be-bibek/blob/main/youtube.svg?raw=true" alt="YouTube" width="48" />
   </a>
 </div>
 
