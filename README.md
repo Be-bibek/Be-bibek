@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Behavior-Entangled+Watermarking+(BEW);Monotonic+Causal+Ordering+Architecture;Crash-Resilient+Stateful+Replay+Defense;IEEE-Grade+Security+Research+System" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Bibek+Das;AI+Systems+Developer;Building+Research-Grade+Security+Projects;Creating+IEEE-Level+Innovations;Digital+Forensics+%7C+5G+Security+%7C+AI;Open+Source+Builder+🚀;Turning+Ideas+Into+Scalable+Systems" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Building intelligent security systems for real-world impact.</h3>
