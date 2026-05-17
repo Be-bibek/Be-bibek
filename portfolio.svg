@@ -5,9 +5,16 @@
       <stop offset="0%" stop-color="#FFCD3C"/>
       <stop offset="100%" stop-color="#FF6F00"/>
     </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@900&amp;display=swap');
+      .styled-b {
+        font-family: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        font-weight: 900;
+      }
+    </style>
   </defs>
   <!-- Squircle Background -->
   <rect width="256" height="256" rx="60" fill="url(#brandGrad)"/>
-  <!-- Bold Geometric 'B' Centered & Sized Up -->
-  <text x="128" y="132" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-weight="800" font-size="165" fill="#0D0E15" text-anchor="middle" dominant-baseline="central">B</text>
+  <!-- Bold Geometric 'B' Centered, Resized, & Styled -->
+  <text x="128" y="130" class="styled-b" font-size="185" fill="#0D0E15" text-anchor="middle" dominant-baseline="central">B</text>
 </svg>
