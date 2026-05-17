@@ -24,6 +24,18 @@
 </div>
 
 <br/>
+
+<div align="center">
+  <a href="https://bibek-das.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="hero-preview.png" width="900" alt="Bibek Das Portfolio Preview" style="max-width: 100%; border-radius: 12px; border: 1px solid #30363d;" />
+  </a>
+  <br/><br/>
+  <a href="https://bibek-das.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Explore%20Interactive%20Portfolio-🌐%20bibek--das.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=FF6F00&labelColor=111111" alt="Explore Portfolio" />
+  </a>
+</div>
+
+<br/>
 <hr/>
 
 ## 🧠 About Me
