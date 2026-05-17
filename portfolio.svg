@@ -16,5 +16,5 @@
   <!-- Squircle Background -->
   <rect width="256" height="256" rx="60" fill="url(#brandGrad)"/>
   <!-- Bold Geometric 'B' Centered & Maximized to the Limit -->
-  <text x="128" y="131" class="styled-b" font-size="240" fill="#0D0E15" text-anchor="middle" dominant-baseline="central">B</text>
+  <text x="128" y="128" class="styled-b" font-size="240" fill="#0D0E15" text-anchor="middle" dominant-baseline="central">B</text>
 </svg>
