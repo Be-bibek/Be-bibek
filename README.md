@@ -9,6 +9,9 @@
 <h3 align="center">Building intelligent security systems for real-world impact.</h3>
 
 <div align="center"> 
+  <a href="https://bibek-das.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/Be-bibek/Be-bibek/blob/main/portfolio.svg?raw=true" alt="Portfolio" width="48" />
+  </a>
   <a href="mailto:bibekdas1055@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
