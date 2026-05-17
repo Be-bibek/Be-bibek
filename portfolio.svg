@@ -8,6 +8,6 @@
   </defs>
   <!-- Squircle Background -->
   <rect width="256" height="256" rx="60" fill="url(#brandGrad)"/>
-  <!-- Bold Geometric 'B' Centered -->
-  <text x="128" y="131" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-weight="800" font-size="142" fill="#0D0E15" text-anchor="middle" dominant-baseline="central">B</text>
+  <!-- Bold Geometric 'B' Centered & Sized Up -->
+  <text x="128" y="132" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-weight="800" font-size="165" fill="#0D0E15" text-anchor="middle" dominant-baseline="central">B</text>
 </svg>
