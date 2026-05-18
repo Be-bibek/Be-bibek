@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:520000,100:800000&height=240&section=header&text=Bibek%20Das&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Cybersecurity%20Researcher%20%E2%80%A2%20System%20Builder&descAlignY=60&descSize=18" alt="Bibek Das Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:520000,100:800000&height=240&section=header&text=Bibek%20Das&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Cybersecurity%20Researcher%20%E2%80%A2%20System%20Builder&descAlignY=60&descSize=18" alt="Bibek Das Banner" />
 </h1>
 
 <p align="center">
@@ -167,5 +167,5 @@
   <br/>
   <img src="https://github.com/user-attachments/assets/2e4ba458-45d1-43aa-b48d-e215631dad3a" width="220" alt="Coding is Fun" />
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:520000,100:800000&height=180&section=footer&text=Innovating%20Secure%20Intelligence&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Engineering%20Research%20Into%20Reality&descAlignY=85&descSize=14" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:520000,100:800000&height=180&section=footer&text=Innovating%20Secure%20Intelligence&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=Engineering%20Research%20Into%20Reality&descAlignY=85&descSize=14" alt="Footer Wave" />
 </div>
