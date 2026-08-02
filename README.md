@@ -161,6 +161,14 @@
 <br/>
 <hr/>
 
+<br/>
+
+> [!WARNING]  
+> **⚖️ LEGAL NOTICE & LICENSE: CC BY-NC 4.0**  
+> **Copyright (c) 2026 Bibek Das. All rights reserved.**  
+> Any repository in this profile is strictly for **educational and study purposes**. Under the Creative Commons Non-Commercial License, you may read and study this code, but **you are legally prohibited from using this codebase for any commercial purposes**, including startups, monetization, or revenue generation. Unauthorized commercial deployment is strictly tracked and enforced.
+
+---
 <div align="center">
   <p><i>⭐ If you found my work interesting, feel free to star my repositories! ⭐</i></p>
   <p><b>Made with ❤️ by Bibek Das</b></p>
