@@ -79,8 +79,24 @@
 
 <br/>
 
+### 🌐 Web3 & Blockchain Engineering
+<img src="https://skillicons.dev/icons?i=solidity,rust" alt="Web3 & Blockchain Engineering" />
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Stellar-101010?style=flat-square&logo=stellar&logoColor=white" alt="Stellar" />
+  <img src="https://img.shields.io/badge/Zero--Knowledge%20(ZK)-101010?style=flat-square&logoColor=white" alt="ZK" />
+  <img src="https://img.shields.io/badge/Midnight-101010?style=flat-square&logoColor=white" alt="Midnight" />
+  <img src="https://img.shields.io/badge/Corda-101010?style=flat-square&logo=corda&logoColor=white" alt="Corda" />
+</p>
+
+<br/>
+
 ### ⚙️ Systems Engineering & Backend
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,mongodb,redis,mysql,supabase,firebase" alt="Systems Engineering & Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,java,mongodb,redis,mysql,supabase,firebase" alt="Systems Engineering & Backend" />
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Okta-101010?style=flat-square&logo=okta&logoColor=white" alt="Okta" />
+</p>
 
 <br/>
 
@@ -108,6 +124,10 @@
 
 ### 🛠️ Developer Workflow & Tooling
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" alt="Developer Workflow & Tooling" />
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Conda-101010?style=flat-square&logo=anaconda&logoColor=white" alt="Conda" />
+</p>
 
 </div>
 
@@ -128,6 +148,28 @@
       <h3>🤖 AI Cybersecurity Simulation</h3>
       <p>Scalable framework for simulating threat vectors and analyzing intelligent agent responses.</p>
       <p><b>Tech:</b> Docker, Kubernetes, TensorFlow</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏦 Institutional RWA Yield Vault</h3>
+      <p>Production-grade Real World Asset (RWA) yield vault on Solana enabling secure stablecoin deposits and composable receipt tokens.</p>
+      <p><b>Tech:</b> Solana, Rust, Anchor, TypeScript</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔒 Privacy-Preserving ZK Treasury</h3>
+      <p>Multi-tier institutional treasury system featuring secure multi-signature approvals and Zero-Knowledge membership circuits.</p>
+      <p><b>Tech:</b> Solidity, Noir (ZK DSL), Next.js</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⏱️ StellarFlow</h3>
+      <p>Time-locked smart contracts and caching SDK enforcing mandatory proposal delays to prevent unauthorized fund execution.</p>
+      <p><b>Tech:</b> Soroban, Rust, Stellar, Redis</p>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Empty placeholder for future projects -->
     </td>
   </tr>
 </table>
