@@ -169,7 +169,9 @@
       <p><b>Tech:</b> Soroban, Rust, Stellar, Redis</p>
     </td>
     <td width="50%" valign="top">
-      <!-- Empty placeholder for future projects -->
+      <h3>🔌 NeuroBoard Hub</h3>
+      <p>Decentralized GitHub and AI workspace for electronics—allowing engineers to share, remix, query, and cryptographically protect PCB hardware.</p>
+      <p><b>Tech:</b> RAG AI, WebGL, Smart Contracts, IPFS</p>
     </td>
   </tr>
 </table>
