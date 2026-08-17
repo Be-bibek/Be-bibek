@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:520000,100:800000&height=240&section=header&text=Bibek%20Das&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI/ML%20Engineer%20%E2%80%A2%20Robotics%20and%20Web3%20Developer&descAlignY=60&descSize=18" alt="Bibek Das Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:520000,100:800000&height=240&section=header&text=Bibek%20Das&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI/ML%20Engineer%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Robotics%20and%20Web3%20Developer&descAlignY=60&descSize=18" alt="Bibek Das Banner" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Bibek+Das;AI/ML+Engineer;Robotics+and+Web3+Developer;Building+Future-Ready+Solutions;AI,+Robotics+and+IoT+Smart+Solutions;Open+Source+Builder+🚀;Turning+Ideas+Into+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Bibek+Das;AI/ML+Engineer;Cybersecurity+Researcher;Robotics+and+Web3+Developer;Building+Future-Ready+Solutions;AI,+Robotics+and+IoT+Smart+Solutions;Open+Source+Builder+🚀;Turning+Ideas+Into+Scalable+Systems" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Tech enthusiast with proven experience in AI, robotics, Web3, and full-stack development.</h3>
