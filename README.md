@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:520000,100:800000&height=240&section=header&text=Bibek%20Das&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Cybersecurity%20Researcher%20%E2%80%A2%20System%20Builder&descAlignY=60&descSize=18" alt="Bibek Das Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:520000,100:800000&height=240&section=header&text=Bibek%20Das&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Robotics%20%26%20Web3%20Developer&descAlignY=60&descSize=18" alt="Bibek Das Banner" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Bibek+Das;AI+Systems+Developer;Building+Research-Grade+Security+Projects;Creating+IEEE-Level+Innovations;Digital+Forensics+%7C+5G+Security+%7C+AI;Open+Source+Builder+🚀;Turning+Ideas+Into+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Bibek+Das;AI%2FML+Engineer;Robotics+%26+Web3+Developer;Building+Future-Ready+Solutions;AI,+Robotics+%26+IoT+Smart+Solutions;Open+Source+Builder+🚀;Turning+Ideas+Into+Scalable+Systems" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Building intelligent security systems for real-world impact.</h3>
+<h3 align="center">Tech enthusiast with proven experience in AI, robotics, Web3, and full-stack development.</h3>
 
 <div align="center"> 
   <a href="https://bibek-das.vercel.app/" target="_blank" rel="noopener noreferrer">
@@ -43,12 +43,12 @@
 
 ## 🧠 About Me
 
-🚀 **Building AI-powered cybersecurity and forensic systems**  
-🧠 **Focused on scalable architectures, intelligent automation, and security research**  
-⚙️ **Developing IEEE-grade projects with real-world deployment potential**  
-🔍 **Exploring AI agents, digital forensics, 5G security, and system design**  
-📚 **Passionate about transforming research concepts into production-ready tools**  
-🤝 **Open to collaborations in AI, cybersecurity, and deep-tech innovation**
+🚀 **AI/ML Engineer & Robotics Developer** building impactful, future-ready solutions  
+🌐 **Web3 & Full-Stack Developer** focused on scalable architectures and intelligent automation  
+⚡ **Known for being highly dedicated and work-driven** in engineering production-ready systems  
+🧠 **Passionate about AI, Robotics, and IoT-integrated Smart Solutions**  
+🔍 **Exploring decentralized systems, applied AI, and smart hardware integration**  
+🤝 **Open to collaborations in AI, Robotics, Web3, and deep-tech innovation**
 
 <br/>
 <hr/>
